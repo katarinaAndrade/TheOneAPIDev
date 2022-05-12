@@ -1,22 +1,21 @@
-package com.kat.theoneapi
+package com.kat.theoneapi.screen
 
 import android.os.Bundle
-import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import androidx.navigation.fragment.findNavController
-import com.kat.theoneapi.databinding.FragmentFirstBinding
+import androidx.fragment.app.Fragment
+import com.kat.theoneapi.databinding.FragmentSplashBinding
 
-class FirstFragment : Fragment() {
+class SplashFragment : Fragment() {
 
-    private lateinit var binding: FragmentFirstBinding
+    private lateinit var binding: FragmentSplashBinding
 
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View? {
-        binding = FragmentFirstBinding.inflate(inflater, container, false)
+        binding = FragmentSplashBinding.inflate(inflater, container, false)
         return binding.root
     }
 

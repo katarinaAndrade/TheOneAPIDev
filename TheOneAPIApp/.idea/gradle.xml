@@ -13,6 +13,8 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/buildSrc" />
             <option value="$PROJECT_DIR$/config" />
+            <option value="$PROJECT_DIR$/config/navigation" />
+            <option value="$PROJECT_DIR$/config/network" />
             <option value="$PROJECT_DIR$/config/ui" />
           </set>
         </option>
