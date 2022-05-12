@@ -8,8 +8,12 @@ repositories {
 }
 
 dependencies {
-    implementation("com.android.tools.build:gradle:7.1.2")
-    implementation("org.jetbrains.kotlin:kotlin-gradle-plugin:1.6.10")
+
+    val androidVersion = "7.1.3"
+    val kotlinVersion = "1.6.21"
+
+    implementation("com.android.tools.build:gradle:$androidVersion")
+    implementation("org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlinVersion")
 }
 
 kotlin {
