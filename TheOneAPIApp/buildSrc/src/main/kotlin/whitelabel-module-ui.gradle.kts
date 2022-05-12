@@ -7,7 +7,7 @@ import dependencies.AppDependenciesLibs.koinLibs
 import dependencies.AppDependenciesLibs.lifecycleLibs
 
 plugins {
-    id("com.android.application")
+    id("com.android.library")
     kotlin("android")
 }
 
@@ -15,11 +15,8 @@ android {
     compileSdk = AppConfig.compileSDK
 
     defaultConfig {
-        applicationId = "com.kat.theoneapi"
         minSdk = AppConfig.minSdk
         targetSdk = AppConfig.targetSdk
-        versionCode = AppConfig.versionCode
-        versionName = AppConfig.versionName
 
         testInstrumentationRunner = AppConfig.androidTestInstrumentationRunner
     }

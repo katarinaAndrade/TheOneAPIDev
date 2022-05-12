@@ -1,3 +1,5 @@
+import config.Version
+
 plugins {
     `kotlin-dsl`
 }
@@ -9,8 +11,8 @@ repositories {
 
 dependencies {
 
-    val androidVersion = "7.1.3"
-    val kotlinVersion = "1.6.21"
+    val androidVersion = Version.androidVersion
+    val kotlinVersion = Version.kotlinVersion
 
     implementation("com.android.tools.build:gradle:$androidVersion")
     implementation("org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlinVersion")
