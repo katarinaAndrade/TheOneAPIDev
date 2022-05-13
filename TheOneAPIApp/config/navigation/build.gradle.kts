@@ -4,4 +4,7 @@ plugins {
 
 dependencies {
 
+    implementation(projects.home.ui)
+    implementation(projects.details.ui)
+
 }

@@ -58,5 +58,9 @@ dependencies {
     implementation(projects.config.ui)
     implementation(projects.config.navigation)
     implementation(projects.config.network)
+    implementation(projects.home.ui)
+    implementation(projects.home.domain)
+    implementation(projects.details.ui)
+    implementation(projects.details.domain)
 
 }

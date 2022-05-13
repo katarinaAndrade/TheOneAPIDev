@@ -16,6 +16,12 @@
             <option value="$PROJECT_DIR$/config/navigation" />
             <option value="$PROJECT_DIR$/config/network" />
             <option value="$PROJECT_DIR$/config/ui" />
+            <option value="$PROJECT_DIR$/details" />
+            <option value="$PROJECT_DIR$/details/domain" />
+            <option value="$PROJECT_DIR$/details/ui" />
+            <option value="$PROJECT_DIR$/home" />
+            <option value="$PROJECT_DIR$/home/domain" />
+            <option value="$PROJECT_DIR$/home/ui" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
