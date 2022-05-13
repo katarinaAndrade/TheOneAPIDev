@@ -10,7 +10,3 @@ include(
     ":home:ui",
     ":home:domain"
 )
-include(
-    ":details:ui",
-    ":details:domain"
-)

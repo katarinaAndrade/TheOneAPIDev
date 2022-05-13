@@ -55,8 +55,8 @@ object AppDependenciesLibs {
     val firebaseLibs = arrayListOf<String>().apply {
         add(AppDependencies.firebaseAnalytics)
         add(AppDependencies.firebaseCrashlytics)
-        add(AppDependencies.firebasePerformance)
-        add(AppDependencies.firebaseRemoteConfig)
+        add(AppDependencies.firebaseFirestore)
+        add(AppDependencies.firebaseStorage)
     }
 
 }

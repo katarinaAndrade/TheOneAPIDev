@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="posterSeriesMaxWidth">194dp</dimen>
+    <dimen name="posterSeriesMaxHeight">262dp</dimen>
+
+    <dimen name="posterMaxWidth">168dp</dimen>
+    <dimen name="posterMaxHeight">232dp</dimen>
+
+    <dimen name="defaultMargin">16dp</dimen>
+    <dimen name="margin24dp">24dp</dimen>
+</resources>

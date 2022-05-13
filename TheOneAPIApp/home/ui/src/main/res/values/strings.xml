@@ -1,0 +1,11 @@
+<resources>
+    <string name="title_activity_home">Home</string>
+
+    <string name="home_fragment_label"/>
+    <string name="home_fragment_title_books">Books</string>
+    <string name="home_fragment_title_movies">Movies</string>
+
+    <string name="details_fragment_label"/>
+    <string name="login_fragment_label"/>
+
+</resources>

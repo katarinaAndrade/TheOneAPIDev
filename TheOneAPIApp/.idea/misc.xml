@@ -3,10 +3,21 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.4125" />
+        <entry key="app/src/main/res/layout/content_main.xml" value="0.4125" />
         <entry key="app/src/main/res/layout/fragment_first.xml" value="0.4125" />
         <entry key="app/src/main/res/layout/fragment_second.xml" value="0.4125" />
+        <entry key="app/src/main/res/layout/fragment_splash.xml" value="0.4125" />
         <entry key="config/ui/src/main/res/drawable/ic_launcher_background.xml" value="0.299" />
         <entry key="config/ui/src/main/res/drawable/ic_launcher_foreground.xml" value="0.299" />
+        <entry key="details/ui/src/main/res/layout/activity_details.xml" value="0.4125" />
+        <entry key="home/ui/src/main/res/layout/activity_home.xml" value="0.4125" />
+        <entry key="home/ui/src/main/res/layout/content_home.xml" value="0.4125" />
+        <entry key="home/ui/src/main/res/layout/fragment_details.xml" value="0.4125" />
+        <entry key="home/ui/src/main/res/layout/fragment_home.xml" value="0.4125" />
+        <entry key="home/ui/src/main/res/layout/fragment_login.xml" value="0.4125" />
+        <entry key="home/ui/src/main/res/layout/item_home.xml" value="0.4125" />
+        <entry key="home/ui/src/main/res/layout/item_home_series_poster.xml" value="0.4114583333333333" />
       </map>
     </option>
   </component>

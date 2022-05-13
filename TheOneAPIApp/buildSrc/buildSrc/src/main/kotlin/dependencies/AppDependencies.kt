@@ -45,8 +45,8 @@ object AppDependencies {
     const val firebaseBOM = "com.google.firebase:firebase-bom:${Version.firebaseBOM}"
     const val firebaseAnalytics = "com.google.firebase:firebase-analytics-ktx"
     const val firebaseCrashlytics = "com.google.firebase:firebase-crashlytics-ktx"
-    const val firebasePerformance = "com.google.firebase:firebase-perf-ktx"
-    const val firebaseRemoteConfig = "com.google.firebase:firebase-config-ktx"
+    const val firebaseFirestore = "com.google.firebase:firebase-firestore-ktx"
+    const val firebaseStorage = "com.google.firebase:firebase-storage-ktx"
 
     const val googleAuth = "com.google.android.gms:play-services-auth:${Version.googleAuth}"
 

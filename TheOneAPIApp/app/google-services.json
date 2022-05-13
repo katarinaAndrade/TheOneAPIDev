@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "765249286800",
+    "project_id": "theoneapi-3950d",
+    "storage_bucket": "theoneapi-3950d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765249286800:android:8d90d47c0ac1cf713e5e15",
+        "android_client_info": {
+          "package_name": "com.kat.theoneapi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765249286800-ml0ge2vdg9ibjva03o4qp32vgmkfrihc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kat.theoneapi",
+            "certificate_hash": "fd2a2ff1e4055bb83a644a96712203f337c70ee0"
+          }
+        },
+        {
+          "client_id": "765249286800-64up25eb2jmh7iaf3qbujv0l4drh8t2m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQrBR0hY4UlGMMTZJ6xVc6cDpbFFLGPzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "765249286800-64up25eb2jmh7iaf3qbujv0l4drh8t2m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

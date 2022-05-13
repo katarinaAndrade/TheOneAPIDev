@@ -4,4 +4,6 @@ plugins {
 
 dependencies {
 
+    implementation(projects.config.network)
+
 }
