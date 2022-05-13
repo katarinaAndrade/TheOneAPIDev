@@ -46,6 +46,7 @@ android {
 }
 
 dependencies {
+    implementation(fileTree(mapOf("dir" to "libs", "include" to listOf("*.jar"))))
 
     implementations(defaultAppLibs)
     implementations(testLibs)
@@ -54,5 +55,12 @@ dependencies {
     implementations(koinLibs)
     implementations(lifecycleLibs)
 
+    implementation(projects.config.ui)
+    implementation(projects.config.navigation)
+    implementation(projects.config.network)
+    implementation(projects.home.ui)
+    implementation(projects.home.domain)
+    implementation(projects.details.ui)
+    implementation(projects.details.domain)
 
 }
