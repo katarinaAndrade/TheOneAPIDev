@@ -4,6 +4,8 @@ The one api is an API of The Lord of the Rings  https://the-one-api.dev/
 
 For this project the mandatory features are :
 
+• Kotlin Gradle
+
 • List all movies
 
 • List all characters by name
