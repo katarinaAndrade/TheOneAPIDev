@@ -1,4 +1,4 @@
-# TheOneAPIDev Project status : under construction 🚧 
+# TheOneAPIDev - Project status : Under construction 🚧 
 The one api is an API of The Lord of the Rings  https://the-one-api.dev/ 
 
 
